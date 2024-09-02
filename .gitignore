@@ -1,0 +1,23 @@
+# Archivos de salida de compilación
+bin/
+obj/
+
+# Archivos de configuración del entorno de desarrollo
+.vs/
+*.user
+*.suo
+*.userosscache
+*.suo
+*.dbmdl
+*.bak
+*.log
+*.pdb
+
+# Archivos de configuración específicos del IDE
+*.suov
+*.user
+*.userosscache
+*.suo
+*.dbmdl
+*.bak
+*.log
